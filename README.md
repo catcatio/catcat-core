@@ -16,7 +16,7 @@ sudo ./certbot -d catcat.io -d *.catcat.io --manual --preferred-challenges dns-0
 ```
 
 ### To test federation api
-#### With `curl``
+#### With `curl`
 ```shell
 curl "https://api.catcat.io/federation?q=katopz*catcat.io&type=name"
 ```
