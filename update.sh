@@ -1,4 +1,5 @@
 scp ./server/etc/nginx/conf.d/https.conf root@catcat.io:/etc/nginx/conf.d/default.conf
+scp ./server/var/www/html/BOT0101/index.html root@catcat.io:/var/www/html/BOT0101/index.html
 # scp ./server/var/www/html/stellar.toml root@catcat.io:/var/www/html/stellar.toml
 # scp ./server/var/www/html/privacy_policy.html root@catcat.io:/var/www/html/privacy_policy.html
 # scp ./server/var/www/html/index.html root@catcat.io:/var/www/html/index.html
