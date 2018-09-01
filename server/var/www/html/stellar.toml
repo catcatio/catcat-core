@@ -8,9 +8,9 @@ AUTH_SERVER="https://api.catcat.io/auth"
 # asset with meta info
 [[CURRENCIES]]
 code="CAT"
-issuer="GBE63C5HALO3LET4FRJ7ICN6E26OYFXIRPYUTNXOP7M752XCLMGPARVZ"
+issuer="GAPHVTI67DKIHG77R33ADCFZ6KEOPJEEEIOFF47HUMXEMQSQ6KFKXCAT"
 display_decimals=4
 name="CAT"
 desc="1 CAT token represent 1 cat in the world"
-conditions="There will only ever be 600,000,000 CAT tokens in existence."
+conditions="There will be 600,000,000 CAT tokens in existence for now."
 image="https://avatars1.githubusercontent.com/u/36980416"
